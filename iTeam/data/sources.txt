@@ -1,0 +1,14 @@
+Data sources identification
+
+* Quality of Government
+	* file pattern „qog_bas“ —> Basic Data (CrossSection[72/15192 for US], TimeSeries[1/194 for US])
+	* file pattern „qog_std“ —-> Standard Data (CrossSection, TimeSeries)
+  	* Country-based insights, e.g. ethical fraction, religion fraction, conflict intensity
+
+
+*  24. Education Data by the World Bank
+	* file pattern: „API_4_DS2_en_excel_v2“ —> Huge set of all kind of education related data from 19xx to today, e.g. unemployment (sexes), pupil teacher ratio, progression ratio to second school
+	* file pattern: „Education_US1“
+	* Country-based
+
+
